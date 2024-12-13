@@ -51,15 +51,8 @@ object-detection-project/
 └── README.md
 ```
 
-## Future Work
-- Complete the implementation of YOLOv5-s.
-- Develop our object detection algorithm.
-- Extend the dataset for more robust training.
-- Experiment with other YOLO variants.
-- Apply the models and our algorithm to real-world data for further evaluation.
+
 
 ## Contributors
-- **Your Name** (Project Lead)
+- **MSAHLI IHEB AND HELAOUI AMINE** (Project Lead)
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
